@@ -1,9 +1,3 @@
-Comenzamos a estudiar JPA y la implementación con Hibernate. (Proyecto de base )
-1- Descargar el proyecto
-2- Abrir en Intelligent Idea Community
-3 - Este Proyecto utiliza gradle y la base de dato H2 en memoria para simplificar
+Trabajo Practico JPA. Carolina Martinez 48876
 
-
-
-
-//Comentario adicional. He usado el prototipo dado en clase y he realizdo las implementaciones requridas a partir de los videos 
+He usado el prototipo dado en clase y he realizdo las implementaciones requridas a partir de los videos 
